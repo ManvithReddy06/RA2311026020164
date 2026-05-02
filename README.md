@@ -141,6 +141,16 @@ GET /schedule
 * Modular backend structure
 * Logging middleware
 * Scalable and clean design
+<img width="1600" height="841" alt="Image" src="https://github.com/user-attachments/assets/83dbe816-c8b8-4d30-9e3d-79214c4c29cb" />
+<img width="1600" height="854" alt="image" src="https://github.com/user-attachments/assets/47248443-09b4-43d4-a038-f85bcdfad227" />
+<img width="1600" height="846" alt="image" src="https://github.com/user-attachments/assets/9f0b53d7-a3dc-4bea-91ac-e5b13d89d782" />
+<img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/132e52ea-222e-4483-8862-32432137c7dc" />
+<img width="1600" height="669" alt="image" src="https://github.com/user-attachments/assets/7818f3aa-01f2-4c5c-9b17-7a173f3a7fda" />
+
+
+
+
+
 
 
 ## Conclusion
