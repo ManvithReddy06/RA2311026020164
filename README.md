@@ -147,14 +147,7 @@ GET /schedule
 <img width="1600" height="852" alt="image" src="https://github.com/user-attachments/assets/132e52ea-222e-4483-8862-32432137c7dc" />
 <img width="1600" height="669" alt="image" src="https://github.com/user-attachments/assets/7818f3aa-01f2-4c5c-9b17-7a173f3a7fda" />
 
-
-
-
-
-
-
-## Conclusion
-
+# Conclusion
 This microservice efficiently solves a real-world logistics optimization problem using a standard algorithmic approach. It demonstrates backend development skills including API handling, middleware usage, and algorithm implementation.
 
 
